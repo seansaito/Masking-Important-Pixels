@@ -4,7 +4,7 @@ parts of an image?" https://seansaito.github.io/2019/12/03/masked-accuracy/
 
 ## Gist
 
-![alt](images/cover_photo.png){width=50% height=50%}
+![alt](images/cover_photo.png)
 
 In the corresponding [blog post](https://seansaito.github.io/2019/12/03/masked-accuracy/), 
 we experiment and observe how keeping the important regions of an image and masking 
@@ -17,4 +17,4 @@ for our experiments.
 
 ## Example images
 
-![alt](images/ig_grid_1.png){ width=50% height=50% }
+![alt](images/ig_grid_1.png)
