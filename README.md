@@ -17,4 +17,13 @@ for our experiments.
 
 ## Example images
 
+`p` refers to the pixels which gradient attributions account for the top `p`% of all gradient 
+attributions. So when `p=90`, we keep/mask pixels which account for 90% of gradient attributions.
+
+#### Keeping important pixels
+
 ![alt](images/ig_grid_1.png)
+
+#### Masking important pixels
+
+![alt](images/ig_grid_neg_4.png)
